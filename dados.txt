@@ -13,11 +13,11 @@ Brinquedo Mordedor;Brinquedo resistente para cães de porte médio;24,90;15;Brin
 
 [ANIMAIS]
 
-Rex;dócil;3 anos;Pastor Alemão;Grande
+Rex;dócil;Pastor Alemão;3 anos;Grande
 
-Mimi;brincalhona;2 anos;Gata Siamês;Pequeno
+Mimi;brincalhona;Gata Siamês;2 anos;Pequeno
 
-Loro;tranquilo;1 ano;Calopsita;Pequeno
+Loro;tranquilo;Calopsita;1 ano;Pequeno
 
 
 [SERVICOS]
