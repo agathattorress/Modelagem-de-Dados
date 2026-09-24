@@ -1,0 +1,36 @@
+[PRODUTOS]
+
+Ração Premium para Cães;Ração seca para cães adultos de porte médio;89,90;25;Alimentação
+
+Areia Higiênica para Gatos;Areia sanitária com controle de odores;32,50;40;Higiene
+
+Petisco de Frango;Petisco natural sabor frango para cães;18,90;35;Petiscos
+
+Shampoo para Cães;Shampoo neutro para banho e higiene dos cães;27,90;20;Higiene
+
+Brinquedo Mordedor;Brinquedo resistente para cães de porte médio;24,90;15;Brinquedos
+
+
+[ANIMAIS]
+
+Rex;Cachorro;dócil;Pastor Alemão;3 anos;Grande
+
+Mimi;Gata;brincalhona;Siamês;2 anos;Pequeno
+
+Loro;Pássaro;tranquilo;Calopsita;1 ano;Pequeno
+
+
+[SERVICOS]
+
+Banho;Banho completo com produtos específicos para o animal;45,00;01:00;Higiene
+
+Tosa;Tosa higiênica e estética do animal;60,00;01:30;Higiene
+
+Consulta Veterinária;Avaliação geral da saúde do animal;120,00;01:00;Veterinário
+
+Vacinação;Aplicação de vacina conforme indicação veterinária;80,00;00:30;Saúde
+
+Limpeza Dentária;Limpeza e cuidados básicos com os dentes do animal;90,00;01:00;Saúde
+
+
+[AGENDAS]
